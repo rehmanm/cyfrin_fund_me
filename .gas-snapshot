@@ -1,0 +1,4 @@
+CounterTest:testFuzz_SetNumber(uint256) (runs: 256, μ: 27320, ~: 28409)
+CounterTest:test_Increment() (gas: 28379)
+FundMeTest:test_fund_correct_amount() (gas: 14597)
+FundMeTest:test_fund_small_amount() (gas: 17104)
